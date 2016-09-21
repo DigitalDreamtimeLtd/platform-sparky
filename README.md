@@ -9,6 +9,6 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 
 
 **Files for sparky, kernel version 3.10.37**
-- Initial 20160922: Full Volumio 2 support on kernel 3.10.72 with backported overlayfs
+- Initial 20160922: Full Volumio 2 support on kernel 3.10.37 with backported overlayfs
 
 
